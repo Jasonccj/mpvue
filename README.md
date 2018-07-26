@@ -4,20 +4,21 @@
 
 ## Build Setup
 
-``` bash
-# install dependencies
 npm install
 
-# serve with hot reload at localhost:8080
 npm run dev
 
-# build for production with minification
 npm run build
 
-# build for production and view the bundle analyzer report
 npm run build --report
-```
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+# 项目目录结构
+src 为项目主体目录
+    --pages 所有页面目录
+    App.vue 项目入口文件
+    main.js 项目入口文件
+static 存放一些静态文件
 
-测试
+
+
+
